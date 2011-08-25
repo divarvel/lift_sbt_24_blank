@@ -1,0 +1,3 @@
+# SBT stuff
+target/
+project/boot/
