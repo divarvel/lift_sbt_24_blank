@@ -1,0 +1,6 @@
+This is the blank template for Lift 2.4,
+adapted from https://github.com/lift/lift_24_sbt/tree/master/scala_29/lift_blank
+but it is compatible with sbt 0.10.x
+
+Lift Version: 2.4-M2
+Scala version: 2.9.0-1
