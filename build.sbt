@@ -5,7 +5,7 @@ scalaVersion := "2.9.0-1"
 seq(webSettings: _*)
 
 libraryDependencies ++= {
-val liftVersion = "2.4-M2"
+val liftVersion = "2.4-M3"
 Seq(
   "net.liftweb" %% "lift-webkit" % liftVersion % "compile->default"
 )  
